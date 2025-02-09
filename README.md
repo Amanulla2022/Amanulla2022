@@ -12,8 +12,8 @@ I'm a passionate **Front End Developer** with with **1 years 6 months of experie
 ## 🔍 **Looking for New Opportunities**  
 I am actively seeking **frontend/mern-stack developer** roles where I can contribute my skills in **React.js, JavaScript, Node.js, and MongoDB**. If you're hiring or know of any opportunities, feel free to reach out! 📩 or 📞
 
-📧 **Email:** [amanmulla167@gmai.com]  
-📞 **Phone:** [+91 9590397339] 
 💼 **LinkedIn:** [Amanulla](https://www.linkedin.com/in/amanulla-mulla-000678232/)  
+📧 **Email:** amanmulla167@gmai.com  
+📞 **Phone:** +91-9590397339 
 
 💡 I’m always open to collaboration and contributions. Feel free to check out my repositories! 🚀  
