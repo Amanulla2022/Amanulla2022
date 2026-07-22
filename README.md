@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | MERN Stack Developer | Open Source Contributor**  
 
-I'm a passionate **MERN Stack || Full Stack Web Developer** with **2 year 6 months of experience**, expertise in **Next.Js, React.js, Node.js, Express.js, MongoDB**, and a deep interest in creating user-friendly and scalable applications. I enjoy bringing beautiful designs to life and optimizing performance for better user experiences.  
+I'm a passionate **MERN Stack || Full Stack Web Developer** with **3 years 8 months + of experience**, expertise in **Next.Js, React.js, Node.js, Express.js, MongoDB**, and a deep interest in creating user-friendly and scalable applications. I enjoy bringing beautiful designs to life and optimizing performance for better user experiences.  
 
 ## 🔧 **Tech Stack**
 - **Frontend:** HTML, CSS, Tailwind CSS, Material UI, JavaScript (ES6+), TypeScript, React.js, Redux, Next.js  
