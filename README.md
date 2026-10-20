@@ -6,7 +6,7 @@ I'm a passionate **MERN Stack || Full Stack Web Developer** with **3 years+ of p
 
 ## 🔧 **Tech Stack**
 - **Frontend:** HTML, CSS, Tailwind CSS, Material UI, JavaScript (ES6+), TypeScript, React.js, Redux, Next.js  
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs  
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, GraphQL
 - **Tools & Others:** GitHub, Postman, Redis, Firebase, VS Code
 
 ## 🔍 **Looking for New Opportunities**  
